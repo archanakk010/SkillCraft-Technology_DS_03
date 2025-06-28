@@ -1,5 +1,4 @@
-# Customer Subscription Prediction with Decision Trees
-
+# Bank Marketing Analysis with Decision Tree Classifier
 This project analyzes the **Bank Marketing Dataset**  to predict whether a client will subscribe to a term deposit. It involves data preprocessing, feature engineering, model building with a Decision Tree, and performance evaluation.
 
 ---
